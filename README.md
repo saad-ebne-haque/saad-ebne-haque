@@ -47,7 +47,12 @@
 </div>
 
 ---
+### ⚡ Top Languages
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-ebne-haque&layout=compact&theme=tokyo-night&hide_border=true" />
+</div>
+---
 # 📈 Contribution Graph
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saad-ebne-haque&theme=tokyo-night&hide_border=true" />
