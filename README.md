@@ -87,5 +87,10 @@
 </div>
 
 ---
+## 📊 GitHub Stats  
 
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+---
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
