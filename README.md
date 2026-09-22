@@ -50,7 +50,7 @@
 
 # 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadebnehaque&layout=compact&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=saadebnehaque&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
