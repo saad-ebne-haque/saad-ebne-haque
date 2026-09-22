@@ -1,48 +1,93 @@
 <div align="center">
-  <svg width="100%" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background Gradient -->
-    <rect width="1000" height="280" rx="20" fill="url(#bg-gradient)"/>
-    
-    <!-- Decorative Glowing Circles -->
-    <circle cx="900" cy="40" r="120" fill="#9333ea" opacity="0.25" filter="blur(40px)"/>
-    <circle cx="100" cy="240" r="100" fill="#4f46e5" opacity="0.3" filter="blur(40px)"/>
 
-    <!-- Left Side: Texts -->
-    <text x="60" y="90" fill="#c084fc" font-family="Segoe UI, sans-serif" font-size="14" font-weight="700" letter-spacing="4">FRONTEND WEB DEVELOPER</text>
-    <text x="60" y="145" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="44" font-weight="800">Saad Ebne Huq</text>
-    <text x="60" y="190" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="16">Building modern, responsive, and user-centric web applications.</text>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Saad%20Ebne%20Huq&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-    <!-- Tech Badges / Pills inside Banner -->
-    <rect x="60" y="215" width="90" height="30" rx="15" fill="#1e1b4b" stroke="#7c3aed" stroke-width="1"/>
-    <text x="105" y="234" fill="#d8b4fe" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" text-anchor="middle">React.js</text>
+# Hi, I'm Saad Ebne Huq 👋
 
-    <rect x="165" y="215" width="105" height="30" rx="15" fill="#1e1b4b" stroke="#7c3aed" stroke-width="1"/>
-    <text x="217.5" y="234" fill="#d8b4fe" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" text-anchor="middle">TypeScript</text>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;React.js+Learner;JavaScript+Enthusiast;Building+Modern+Responsive+Websites;Always+Learning+New+Things" />
 
-    <rect x="285" y="215" width="110" height="30" rx="15" fill="#1e1b4b" stroke="#7c3aed" stroke-width="1"/>
-    <text x="340" y="234" fill="#d8b4fe" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Tailwind CSS</text>
-
-    <!-- Right Side: Profile Avatar / Circle -->
-    <g transform="translate(780, 140)">
-      <!-- Outer Glow Ring -->
-      <circle cx="0" cy="0" r="85" fill="url(#ring-gradient)" opacity="0.6"/>
-      <!-- Inner Background -->
-      <circle cx="0" cy="0" r="78" fill="#0f172a"/>
-      <!-- Placeholder Text or Icon inside Avatar circle -->
-      <text x="0" y="10" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">SEH</text>
-    </g>
-
-    <!-- Gradients Definition -->
-    <defs>
-      <linearGradient id="bg-gradient" x1="0" y1="0" x2="1000" y2="280" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#0f172a"/>
-        <stop offset="0.5" stop-color="#1e1b4b"/>
-        <stop offset="1" stop-color="#090d16"/>
-      </linearGradient>
-      <linearGradient id="ring-gradient" x1="-85" y1="-85" x2="85" y2="85" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#a855f7"/>
-        <stop offset="1" stop-color="#6366f1"/>
-      </linearGradient>
-    </defs>
-  </svg>
 </div>
+
+---
+
+# 👨‍💻 About Me
+- 💻 Frontend Web Developer
+- 🌱 Currently learning React.js
+- ⚛️ Passionate about JavaScript & React
+- 🎯 Goal: Become a Professional Frontend Engineer
+- 🚀 Love building modern responsive websites
+- 📚 Always learning new technologies
+
+---
+
+# 🌐 Connect With Me
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/saad-ebne-huq/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a><br>
+      <strong>LinkedIn</strong>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:sebnehaque@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a><br>
+      <strong>Gmail</strong>
+    </td>
+    <td align="center" width="120">
+      <a href="https://saad-ebne-huq.vercel.app/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="48"/></a><br>
+      <strong>Portfolio</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🚀 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vscode,npm,figma" />
+</div>
+
+---
+
+
+---
+# 📈 Contribution Graph
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saad-ebne-haque&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+# 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saadebnehaque/saadebnehaque/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+# 💡 Currently Learning
+- ⚛️ React.js
+- 🚀 Next.js
+- 🍃 MongoDB
+- 📘 TypeScript
+- 🔥 REST API
+- 📦 Component Architecture
+- 🎨 Advanced Tailwind CSS
+
+---
+
+<div align="center">
+
+### 💬 Favorite Quote
+<code>if (dream > reality) { build(); }</code>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadebnehaque&theme=tokyonight"/>
+</div>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
