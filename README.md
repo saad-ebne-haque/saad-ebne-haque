@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Saad%20Ebne%20Huq&fontSize=55&fontAlignY=40&animation=fadeIn" /> -->
 <div align="center">
-  <img src="https://drive.google.com/file/d/1_n6jv78JASNTtQhPYC6oI8yxk4dIilj9/view?usp=drive_link" alt="Saad Ebne Huq Banner" width="100%" />
+  <img src="https://ibb.co.com/WNxsW3z3" alt="Saad Ebne Huq Banner" width="100%" />
 </div>
 
 # Hi, I'm Saad Ebne Huq 👋
