@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Saad%20Ebne%20Huq&fontSize=55&fontAlignY=40&animation=fadeIn" /> -->
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Saad%20Ebne%20Huq&fontSize=55&fontAlignY=40&animation=fadeIn" /> 
+<!-- <div align="center">
   <img src="https://i.ibb.co.com/mrDSCByB/Gemini-Generated-Image-w7akshw7akshw7ak.jpg" width="100%" />
-</div>
+</div> -->
 
 # Hi, I'm Saad Ebne Huq 👋
 
